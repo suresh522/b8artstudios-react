@@ -11,7 +11,7 @@ const Artist = () => {
         onClick={() => startTransition("designer")}
         className="text-sm underline"
       >
-        Switch to Designer
+        Switch to Designer.
       </button>
     </div>
   );
